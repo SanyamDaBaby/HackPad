@@ -1,0 +1,20 @@
+Info: Processing symbol 'D1:LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm'.
+Info: Processing symbol 'J1:display:OLED-128x64'.
+Info: Processing symbol 'U1:'.
+Info: Processing symbol 'SW1:'.
+Info: Processing symbol 'SW6:'.
+Info: Processing symbol 'SW2:'.
+Info: Processing symbol 'SW5:'.
+Info: Processing symbol 'SW3:'.
+Info: Processing symbol 'SW4:'.
+Error: Cannot add SW3 (no footprint assigned).
+Error: Cannot add SW4 (no footprint assigned).
+Error: Cannot add SW2 (no footprint assigned).
+Error: Cannot add SW5 (no footprint assigned).
+Error: Cannot add SW1 (no footprint assigned).
+Error: Cannot add SW6 (no footprint assigned).
+Error: Cannot add J1 (footprint 'display:OLED-128x64' not found).
+Error: Cannot add U1 (no footprint assigned).
+
+
+Info: Total warnings: 0, errors: 8.
